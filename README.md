@@ -1,4 +1,4 @@
-# Hi, I'm Nima Maleki 👋
+# Hi, I'm Nima Maleki 
 
 ### IT & Cybersecurity Student | Full-Stack Developer
 
@@ -8,7 +8,7 @@ I enjoy building things, solving technical problems and learning new technologie
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 
 **Programming & Development**
 - C++
@@ -43,7 +43,7 @@ I enjoy building things, solving technical problems and learning new technologie
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### Personal Finance Dashboard
 A web-based finance application built with Python, Flask, SQLite and JavaScript.
@@ -56,7 +56,7 @@ A Python/Flask project where I explored backend development, API endpoints and w
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Kristiania University College**  
 Bachelor's Degree in IT & Cybersecurity  
@@ -64,11 +64,11 @@ Bachelor's Degree in IT & Cybersecurity
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
-- 🌐 [Portfolio](https://www.nimamalekii.no)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nima-maleki-188ba929a/)
-- 💻 [GitHub](https://github.com/Nimamalekiiii)
+- [Portfolio](https://www.nimamalekii.no)
+- [LinkedIn](https://www.linkedin.com/in/nima-maleki-188ba929a/)
+-  [GitHub](https://github.com/Nimamalekiiii)
 
 ---
 
